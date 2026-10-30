@@ -1,0 +1,32 @@
+dominio,nivel_capa1,nivel_final,amenaza,score,motivos
+studenti.it,segura,peligrosa,phishing,0.8,El modelo estima 34% de probabilidad de que sea maliciosa | Formulario de contraseña que envía los datos a otro dominio | 1 iframe(s) oculto(s)
+xn--12c1bzb8ae9br.com,sospechosa,peligrosa,phishing,0.8,El modelo estima 70% de probabilidad de que sea maliciosa | Dominio con punycode (posible suplantación visual) | Formulario de contraseña que envía los datos a otro dominio
+filmyzilla54.com,sospechosa,sospechosa,phishing,0.512,El modelo estima 51% de probabilidad de que sea maliciosa
+brooklynvegan.com,sospechosa,sospechosa,phishing,0.6,El modelo estima 60% de probabilidad de que sea maliciosa
+drbokep18.com,segura,peligrosa,phishing,0.8,"El modelo estima 49% de probabilidad de que sea maliciosa | Formulario de contraseña que envía los datos a otro dominio | Scripts con funciones de riesgo (eval, document.write, atob...)"
+insideclimatenews.org,sospechosa,sospechosa,phishing,0.5,El modelo estima 50% de probabilidad de que sea maliciosa
+ppcloudbackup.com,sospechosa,sospechosa,phishing,0.525,El modelo estima 52% de probabilidad de que sea maliciosa
+kingarthurbaking.com,sospechosa,sospechosa,phishing,0.57,El modelo estima 57% de probabilidad de que sea maliciosa | 1 iframe(s) oculto(s) | Carga muchos scripts desde dominios externos
+w.tools,segura,peligrosa,phishing,0.8,El modelo estima 34% de probabilidad de que sea maliciosa | Formulario de contraseña que envía los datos a otro dominio
+bloggersdelight.dk,sospechosa,sospechosa,phishing,0.53,El modelo estima 53% de probabilidad de que sea maliciosa | Carga muchos scripts desde dominios externos
+1punrewudx.com,sospechosa,sospechosa,phishing,0.509,El modelo estima 51% de probabilidad de que sea maliciosa
+gold-usergeneratedcontent.net,sospechosa,sospechosa,phishing,0.64,El modelo estima 64% de probabilidad de que sea maliciosa
+republicworld.com,sospechosa,sospechosa,phishing,0.615,El modelo estima 62% de probabilidad de que sea maliciosa
+hentai-covers.site,sospechosa,sospechosa,phishing,0.51,El modelo estima 51% de probabilidad de que sea maliciosa | Carga muchos scripts desde dominios externos
+29winbd.com,sospechosa,sospechosa,phishing,0.526,El modelo estima 53% de probabilidad de que sea maliciosa
+juga-bet-col.com,sospechosa,sospechosa,phishing,0.56,El modelo estima 56% de probabilidad de que sea maliciosa
+grupostelegram.net,sospechosa,sospechosa,phishing,0.595,"El modelo estima 60% de probabilidad de que sea maliciosa | Scripts con funciones de riesgo (eval, document.write, atob...)"
+77w18.com,sospechosa,peligrosa,phishing,0.8,El modelo estima 51% de probabilidad de que sea maliciosa | Formulario de contraseña que envía los datos a otro dominio | 2 iframe(s) oculto(s)
+veradigmcloud.com,sospechosa,sospechosa,phishing,0.59,El modelo estima 59% de probabilidad de que sea maliciosa
+oracleinfinity.io,sospechosa,sospechosa,phishing,0.52,El modelo estima 52% de probabilidad de que sea maliciosa
+fundoshikake.com,sospechosa,sospechosa,phishing,0.51,El modelo estima 51% de probabilidad de que sea maliciosa
+arm-dc-msedge.net,sospechosa,sospechosa,phishing,0.5,El modelo estima 50% de probabilidad de que sea maliciosa
+xn--24-8qizc4j8c.live,sospechosa,sospechosa,phishing,0.708,El modelo estima 71% de probabilidad de que sea maliciosa | Dominio con punycode (posible suplantación visual)
+wordleunlimited.org,sospechosa,sospechosa,phishing,0.73,El modelo estima 73% de probabilidad de que sea maliciosa
+rahaporn.com,segura,peligrosa,phishing,0.8,"El modelo estima 45% de probabilidad de que sea maliciosa | Formulario de contraseña que envía los datos a otro dominio | Scripts con funciones de riesgo (eval, document.write, atob...)"
+oracleindustry.com,sospechosa,sospechosa,phishing,0.655,El modelo estima 66% de probabilidad de que sea maliciosa
+montclair.edu,sospechosa,sospechosa,phishing,0.53,El modelo estima 53% de probabilidad de que sea maliciosa | 1 iframe(s) oculto(s)
+bestlifeonline.com,sospechosa,sospechosa,phishing,0.53,El modelo estima 53% de probabilidad de que sea maliciosa
+hogrefe.com,segura,peligrosa,phishing,0.8,El modelo estima 35% de probabilidad de que sea maliciosa | Formulario de contraseña que envía los datos a otro dominio
+rahavard365.com,sospechosa,sospechosa,phishing,0.509,El modelo estima 51% de probabilidad de que sea maliciosa | 1 iframe(s) oculto(s)
+stream-online23.blog,sospechosa,sospechosa,phishing,0.643,El modelo estima 64% de probabilidad de que sea maliciosa

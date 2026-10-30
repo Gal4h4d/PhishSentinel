@@ -1,0 +1,10 @@
+scikit-learn>=1.4
+pandas
+numpy
+joblib
+xgboost
+tldextract
+beautifulsoup4
+lxml
+requests
+pyinstaller
